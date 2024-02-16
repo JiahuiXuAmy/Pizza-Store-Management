@@ -17,6 +17,7 @@ Staff Information: Stores data on staff members, including schedules, roles, and
 ### Power BI Integration
 
 Dynamic Dashboards: Transforms complex datasets into intuitive, interactive dashboards that provide real-time insights into sales trends, inventory levels, and staff performance, enabling quick and informed decision-making.
+
 Analytical Tools: Offers comprehensive data analysis capabilities, including trend analysis, forecasting, and performance metrics, to guide strategic planning and operational adjustments.
 
 ## **Impact on Small Businesses**

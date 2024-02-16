@@ -1,6 +1,6 @@
 # Pizza Store Management System
 
-**##Overview**
+## **Overview**
 
 This project revolutionizes the management of small pizza stores by leveraging a MySQL-based relational database integrated with Power BI for dynamic data visualization and analytics. Aimed at enhancing operational efficiency, optimizing inventory management, and improving decision-making processes, this system empowers small businesses with data-driven insights for increased profitability and a competitive edge in the food service industry.
 

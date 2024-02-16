@@ -9,7 +9,9 @@ This project revolutionizes the management of small pizza stores by leveraging a
 ### MySQL-Based Relational Database
 
 Orders Management: Captures detailed information about customer orders, including items ordered, quantities, and special requests, ensuring accurate order processing and customer satisfaction.
+
 Inventory Tracking: Maintains up-to-date records of ingredients and supplies, monitoring stock levels to prevent shortages or excesses, thereby reducing waste and ensuring the availability of fresh ingredients.
+
 Staff Information: Stores data on staff members, including schedules, roles, and hours worked, facilitating efficient staff management and payroll processing.
 
 ### Power BI Integration
